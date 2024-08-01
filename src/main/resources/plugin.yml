@@ -1,0 +1,7 @@
+name: Regions
+version: ALPHA-1.0
+main: dev.aarow.regions.plugin.RegionsPlugin
+author: Aarow_
+api-version: 1.20
+commands:
+  region:
